@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "description": "Client for riven analyzer tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/riven-price-analyzer/client.git"
+  },
+  "keywords": [
+    "riven",
+    "warframe",
+    "market",
+    "analyze",
+    "tool"
+  ],
+  "author": "Piotr-Aueternum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riven-price-analyzer/server/issues"
+  },
+  "homepage": "https://github.com/riven-price-analyzer/server#readme"
+}
